@@ -7,3 +7,8 @@
 This repository contains all of the notes taken by Hans Wang for the Lighthouse Labs Web Development Bootcamp.
 
 taken by [Hans](https://github.com/Hansstayhungry) for [Lighthouse Labs](https://www.lighthouselabs.ca/)
+
+## Table of Contents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1/)
